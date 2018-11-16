@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Infra
-slug: infra
+title: IDE
+slug: ide
 category: dev
 menu: false
-order: 6
+order: 4
 ---
