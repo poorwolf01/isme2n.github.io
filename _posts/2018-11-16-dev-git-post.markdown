@@ -3,7 +3,7 @@ layout: post
 title:  "[Git]Github Post 올리기"
 subtitle:   "Github Post 올리기"
 categories: dev
-tags: git
+tags: dev git
 comments: true
 
 ---
