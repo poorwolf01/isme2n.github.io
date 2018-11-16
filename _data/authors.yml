@@ -3,16 +3,16 @@
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 poorwolf:
   name:              poorwolf
-  email:             
+  email:             poorwolf01@naver.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    제작중입니다.
+    poorwolf
 
   # This photo will be used in the about section
   picture:
-    src:             
+    src: /assets/img/20180726_114909_2117668489.gif            
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            
