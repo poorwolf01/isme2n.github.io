@@ -15,8 +15,8 @@ poorwolf:
     src: /assets/img/me-pic.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            
-      2x:            
+      1x: /assets/img/me-pic.jpg           
+      2x: /assets/img/me-pic.jpg           
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
