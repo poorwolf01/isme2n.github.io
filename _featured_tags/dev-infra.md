@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Food
-slug: food
-category: review
+title: Infra
+slug: infra
+category: dev
 menu: false
 order: 2
 ---
