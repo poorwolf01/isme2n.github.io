@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: JavaScript
-slug: javascript
+title: JAVA
+slug: JAVA
 category: dev
 menu: false
 order: 1
