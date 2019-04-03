@@ -3,7 +3,7 @@ layout: post
 title:  "Reg Express"
 subtitle:   "정규표현식"
 categories: dev
-tags: dev Web
+tags: dev web
 comments: true
 
 ---
@@ -41,6 +41,11 @@ comments: true
 
 주민번호, -까지 포함된 문자열로 검색
 /^(?:[0-9]{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[1,2][0-9]|3[0,1]))-[1-4][0-9]{6}$/
+
+URL
+/https?://(\w*:\w*@)?[-\w.]+(:\d+)?(/([\w/_.]*(\?\S+)?)?)?/
+
+
 
 ---
 

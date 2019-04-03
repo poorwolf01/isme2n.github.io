@@ -3,7 +3,7 @@ layout: post
 title:  "Eclipse"
 subtitle:   "단축키"
 categories: dev
-tags: dev IDE
+tags: dev ide
 comments: true
 
 ---

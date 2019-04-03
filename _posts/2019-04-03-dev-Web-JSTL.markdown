@@ -3,7 +3,7 @@ layout: post
 title:  "JSTL"
 subtitle:   "JSTL"
 categories: dev
-tags: dev Web
+tags: dev web
 comments: true
 
 ---

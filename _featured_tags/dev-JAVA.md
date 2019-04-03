@@ -5,5 +5,5 @@ slug: JAVA
 category: dev
 menu: false
 order: 1
-header-img: "/img/js-logo.png"
+header-img: ""
 ---
