@@ -3,7 +3,7 @@ layout: post
 title:  "BigDecimal"
 subtitle:   "BigDecimal 연산"
 categories: dev
-tags: dev BigDecimal
+tags: dev JAVA
 comments: true
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Reg Express"
 subtitle:   "정규표현식"
 categories: dev
-tags: dev RegExp
+tags: dev Web
 comments: true
 
 ---

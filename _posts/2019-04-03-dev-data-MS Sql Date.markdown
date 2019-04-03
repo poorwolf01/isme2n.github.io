@@ -3,7 +3,7 @@ layout: post
 title:  "MS SQL"
 subtitle:   "MS SQL Date 표현"
 categories: dev
-tags: dev MSSql
+tags: dev data
 comments: true
 
 ---
