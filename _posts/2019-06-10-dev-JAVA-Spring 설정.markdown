@@ -30,7 +30,7 @@ setting.xml 을 작성하여,  MAVEN_HOME/conf/ 아래에 둘 수 있다. ( *MAV
 
 pom.xml 은 (Project Object Model) Project 내의 Maven 으로 Build 하는 옵션들을 설정할 수 있다.
 
-<script src="https://gist.github.com/eGov pom.js"> </script>
+<script src="https://gist.github.com/poorwolf01/c46d7fb592a455779b34c3b72dd9c940.js"></script>
 
 
 ---
