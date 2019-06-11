@@ -34,7 +34,7 @@ pom.xml 은 (Project Object Model) Project 내의 Maven 으로 Build 하는 옵�
 
 위의 내용은 전자정부 3.8 의 기본 pom.xml 이다.
 
-&lt;modelVersion&gt;	: 4.0.0 은 Maven pom.xml 의 모델 버전으로 xml 의 버전이라고 볼 수 있다.
+<modelVersion>	: 4.0.0 은 Maven pom.xml 의 모델 버전으로 xml 의 버전이라고 볼 수 있다.
 <groupId>		: 해당 프로젝트의 그룹명으로 보통 URL 의 역순을 쓴다.
 <artifactId> 	: 해당 프로젝으틔 기본 아티팩트 명이다.
 <packaging>		: jar, war, ear, pom 등 패키지 유형을 나타낸다.
