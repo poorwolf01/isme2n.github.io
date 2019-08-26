@@ -10,12 +10,12 @@ comments: true
 Maven Goal List
 
 
-clean 	: 컴파일 결과물인 target 디렉토리 삭제
-compile : 모든 소스코드 컴파일, 리소스파일을 target/classes 디렉토리에 복사
-package : compile 수행 후, 테스트 수행, pom.xml 의 &lt;packaging&gt; 정보에 따라 패키징 수행
-install : package 수행 후, local repo에 install 수행
-deploy	: install 수행 후, 원격저장소 배포 수행
-site 	: target/site에 문서 사이트 생성
+clean 	: 컴파일 결과물인 target 디렉토리 삭제  
+compile : 모든 소스코드 컴파일, 리소스파일을 target/classes 디렉토리에 복사  
+package : compile 수행 후, 테스트 수행, pom.xml 의 &lt;packaging&gt; 정보에 따라 패키징 수행  
+install : package 수행 후, local repo에 install 수행  
+deploy	: install 수행 후, 원격저장소 배포 수행  
+site 	: target/site에 문서 사이트 생성  
 clean 	: 컴파일 결과물인 target 디렉토리 삭제  
 compile : 모든 소스코드 컴파일, 리소스파일을 target/classes 디렉토리에 복사  
 package : compile 수행 후, 테스트 수행, pom.xml 의 &lt;packaging&gt; 정보에 따라 패키징 수행  
