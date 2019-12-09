@@ -10,9 +10,7 @@ comments: true
 
 ## foreach 사용법
 
-<foreach collection="objList" item="obj" separator="," open="(" close=")">
-	#{obj.objId} 
-</foreach>
+<script src="https://gist.github.com/poorwolf01/7aebb5c37c0537178e14c34a7280c848.js"></script>
 
 ---
 
